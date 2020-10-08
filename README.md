@@ -2,7 +2,7 @@
 
 ## Level 1
 <a href="https://github.com/M-o-C-u-i-s-h-l-e/Foobar/tree/main/Level%201/The%20cake%20is%20not%20a%20lie!">The cake is not a lie!</a>
-<br>
+
 ## Level 2
 Bunny Prisoner Locating<br>
 Ion Flux Relabeling<br>
