@@ -1,4 +1,4 @@
-Distract the Guards
+<h1>Distract the Guards</h1>
 
 The time for the mass escape has come, and you need to distract the guards so that the bunny prisoners can make it out! Unfortunately for you, they're watching the bunnies closely. Fortunately, this means they haven't realized yet that the space station is about to explode due to the destruction of the LAMBCHOP doomsday device. Also fortunately, all that time you spent working as first a minion and then a henchman means that you know the guards are fond of bananas. And gambling. And thumb wrestling.
 
@@ -16,14 +16,14 @@ Write a function solution(banana_list) which, given a list of positive integers 
 
 The number of guards will be at least 1 and not more than 100, and the number of bananas each guard starts with will be a positive integer no more than 1073741823 (i.e. 2^30 -1). Some of them stockpile a LOT of bananas.
 
-Inputs:
+<h3>Input:</h3>
 banana_list = [1, 1]
 
-Output:
+<h3>Output:</h3>
 2
 
-Inputs:
+<h3>Input:</h3>
 banana_list = [1, 7, 3, 21, 13, 19]
 
-Output:
-0
+<h3>Output:</h3>
+0<br>
