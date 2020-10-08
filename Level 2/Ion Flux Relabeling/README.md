@@ -1,4 +1,4 @@
-Ion Flux Relabeling
+<h1>Ion Flux Relabeling</h1>
 
 Oh no! Commander Lambda's latest experiment to improve the efficiency of her LAMBCHOP doomsday device has backfired spectacularly. She had been improving the structure of the ion flux converter tree, but something went terribly wrong and the flux chains exploded. Some of the ion flux converters survived the explosion intact, but others had their position labels blasted off. She's having her henchmen rebuild the ion flux converter tree by hand, but you think you can do it much more quickly - quickly enough, perhaps, to earn a promotion!
 
@@ -12,16 +12,16 @@ Write a function solution(h, q) - where h is the height of the perfect tree of c
 
 The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect binary tree containing only the root, h = 2 represents a perfect binary tree with the root and two leaf nodes, h = 3 represents a perfect binary tree with the root, two internal nodes and four leaf nodes (like the example above), and so forth. The lists q and p contain at least one but no more than 10000 distinct integers, all of which will be between 1 and 2^h-1, inclusive.
 
-Inputs:
+<h3>Input:</h3>
 h = 3
 q = [7, 3, 5, 1]
 
-Output:
+<h3>Output:</h3>
 [-1, 7, 6, 3]
 
-Inputs:
+<h3>Input:</h3>
 h = 5
 q = [19, 14, 28]
 
-Output:
+<h3>Output:</h3>
 [21, 15, 29]
