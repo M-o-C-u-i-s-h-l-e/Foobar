@@ -1,4 +1,4 @@
-Bunny Prisoner Locating
+<h1>Bunny Prisoner Locating</h1>
 
 Keeping track of Commander Lambda's many bunny prisoners is starting to get tricky. You've been tasked with writing a program to match bunny prisoner IDs to cell locations.
 
@@ -15,16 +15,16 @@ For example, the bunny prisoner at (1, 1) has ID 1, the bunny prisoner at (3, 2)
 
 Write a function solution(x, y) which returns the prisoner ID of the bunny at location (x, y). Each value of x and y will be at least 1 and no greater than 100,000. Since the prisoner ID can be very large, return your solution as a string representation of the number.
 
-Inputs:
+<h3>Inputs:</h3>
 x = 3
 y = 2
 
-Output:
+<h3>Output:</h3>
 "9"
 
-Inputs:
+<h3>Inputs:</h3>
 x = 5
 y = 10
 
-Output:
+<h3>Output:</h3>
 "96"
