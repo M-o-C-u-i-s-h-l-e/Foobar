@@ -1,4 +1,4 @@
-Free the Bunny Prisoners
+<h1>Free the Bunny Prisoners</h1>
 
 You need to free the bunny prisoners before Commander Lambda's space station explodes! Unfortunately, the commander was very careful with her highest-value prisoners - they're all held in separate, maximum-security cells. The cells are opened by putting keys into each console, then pressing the open button on each console simultaneously. When the open button is pressed, each key opens its corresponding lock on the cell. So, the union of the keys in all of the consoles must be all of the keys. The scheme may require multiple copies of one key given to different minions.
 
@@ -28,23 +28,23 @@ Finally, if you had 3 bunnies and required 2 of them to open the cell, then any 
   [1, 2],
 ]
 
-Inputs:
-num_buns = 2
-num_required = 1
+<h3>Input:</h3>
+num_buns = 2<br>
+num_required = 1<br>
 
-Output:
-[[0], [0]]
+<h3>Output:</h3>
+[[0], [0]]<br>
 
-Inputs:
-num_buns = 5
-num_required = 3
+<h3>Input:</h3>
+num_buns = 5<br>
+num_required = 3<br>
 
-Output:
-[[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]
+<h3>Output:</h3>
+[[0, 1, 2, 3, 4, 5], [0, 1, 2, 6, 7, 8], [0, 3, 4, 6, 7, 9], [1, 3, 5, 6, 8, 9], [2, 4, 5, 7, 8, 9]]<br>
 
-Inputs:
-num_buns = 4
-num_required = 4
+<h3>Input:</h3>
+num_buns = 4<br>
+num_required = 4<br>
 
-Output:
-[[0], [1], [2], [3]]
+<h3>Output:</h3>
+[[0], [1], [2], [3]]<br>
