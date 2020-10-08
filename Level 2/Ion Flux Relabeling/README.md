@@ -4,24 +4,24 @@ Oh no! Commander Lambda's latest experiment to improve the efficiency of her LAM
 
 Flux chains require perfect binary trees, so Lambda's design arranged the ion flux converters to form one. To label them, she performed a post-order traversal of the tree of converters and labeled each converter with the order of that converter in the traversal, starting at 1. For example, a tree of 7 converters would look like the following:
 
-   7
- 3   6
-1 2 4 5
+   7<br>
+ 3   6<br>
+1 2 4 5<br>
 
 Write a function solution(h, q) - where h is the height of the perfect tree of converters and q is a list of positive integers representing different flux converters - which returns a list of integers p where each element in p is the label of the converter that sits on top of the respective converter in q, or -1 if there is no such converter. For example, solution(3, [1, 4, 7]) would return the converters above the converters at indexes 1, 4, and 7 in a perfect binary tree of height 3, which is [3, 6, -1].
 
 The domain of the integer h is 1 <= h <= 30, where h = 1 represents a perfect binary tree containing only the root, h = 2 represents a perfect binary tree with the root and two leaf nodes, h = 3 represents a perfect binary tree with the root, two internal nodes and four leaf nodes (like the example above), and so forth. The lists q and p contain at least one but no more than 10000 distinct integers, all of which will be between 1 and 2^h-1, inclusive.
 
 <h3>Input:</h3>
-h = 3
-q = [7, 3, 5, 1]
+h = 3<br>
+q = [7, 3, 5, 1]<br>
 
 <h3>Output:</h3>
-[-1, 7, 6, 3]
+[-1, 7, 6, 3]<br>
 
 <h3>Input:</h3>
-h = 5
-q = [19, 14, 28]
+h = 5<br>
+q = [19, 14, 28]<br>
 
 <h3>Output:</h3>
-[21, 15, 29]
+[21, 15, 29]<br>
