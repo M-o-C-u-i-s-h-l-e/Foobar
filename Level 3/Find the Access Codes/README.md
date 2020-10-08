@@ -1,4 +1,4 @@
-Find the Access Codes
+<h1>Find the Access Codes</h1>
 
 In order to destroy Commander Lambda's LAMBCHOP doomsday device, you'll need access to it. But the only door leading to the LAMBCHOP chamber is secured with a unique lock system whose number of passcodes changes daily. Commander Lambda gets a report every day that includes the locks' access codes, but only she knows how to figure out which of several lists contains the access codes. You need to find a way to determine which list contains the access codes once you're ready to go in. 
 
@@ -8,14 +8,14 @@ Write a function solution(l) that takes a list of positive integers l and counts
 
 For example, [1, 2, 3, 4, 5, 6] has the triples: [1, 2, 4], [1, 2, 6], [1, 3, 6], making the solution 3 total.
 
-Inputs:
+<h3>Input:</h3>
 l = [1, 1, 1]
 
-Output:
+<h3>Output:</h3>
 1
 
-Inputs:
+<h3>Input:</h3>
 l = [1, 2, 3, 4, 5, 6]
 
-Output:
-3
+<h3>Output:</h3>
+3<br>
