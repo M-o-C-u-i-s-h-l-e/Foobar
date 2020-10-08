@@ -8,14 +8,14 @@ To help you best cut the cake, you have turned the sequence of colors of the M&M
 
 Write a function called solution(s) that, given a non-empty string less than 200 characters in length describing the sequence of M&Ms, returns the maximum number of equal parts that can be cut from the cake without leaving any leftovers.
 
-Inputs:
+<h3>Inputs:</h3>
 s = "abccbaabccba"
 
-Output:
+<h3>Output:</h3>
 2
 
-Inputs:
+<h3>Inputs:</h3>
 s = "abcabcabcabc"
 
-Output:
+<h3>Output:</h3>
 4
