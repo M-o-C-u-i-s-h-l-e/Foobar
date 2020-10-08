@@ -15,14 +15,14 @@ For example, the bunny prisoner at (1, 1) has ID 1, the bunny prisoner at (3, 2)
 
 Write a function solution(x, y) which returns the prisoner ID of the bunny at location (x, y). Each value of x and y will be at least 1 and no greater than 100,000. Since the prisoner ID can be very large, return your solution as a string representation of the number.
 
-<h3>Inputs:</h3>
+<h3>Input:</h3>
 x = 3
 y = 2
 
 <h3>Output:</h3>
 "9"
 
-<h3>Inputs:</h3>
+<h3>Input:</h3>
 x = 5
 y = 10
 
