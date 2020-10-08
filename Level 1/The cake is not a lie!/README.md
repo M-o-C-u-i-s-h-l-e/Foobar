@@ -17,5 +17,5 @@ s = "abccbaabccba"
 <h3>Inputs:</h3>
 s = "abcabcabcabc"
 
-<h3>Output:</h3><br>
+<h3>Output:</h3>
 4
