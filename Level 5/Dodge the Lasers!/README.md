@@ -1,4 +1,4 @@
-Dodge the Lasers!
+<h1>Dodge the Lasers!</h1>
 
 Oh no! You've managed to escape Commander Lambdas collapsing space station in an escape pod with the rescued bunny prisoners - but Commander Lambda isnt about to let you get away that easily. She's sent her elite fighter pilot squadron after you - and they've opened fire!
 
@@ -10,14 +10,14 @@ For example, if str_n was "5", the answer would be calculated as floor(1sqrt(2))
 
 str_n will be a positive integer between 1 and 10^100, inclusive. Since n can be very large (up to 101 digits!), using just sqrt(2) and a loop won't work. Sometimes, it's easier to take a step back and concentrate not on what you have in front of you, but on what you don't.
 
-Inputs:
+<h3>Input:</h3>
 str_n = "5"
 
-Output:
+<h3>Output:</h3>
 "19"
 
-Inputs:
+<h3>Input:</h3>
 str_n = "77"
 
-Output:
-"4208"
+<h3>Output:</h3>
+"4208"<br>
