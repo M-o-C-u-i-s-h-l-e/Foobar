@@ -1,4 +1,4 @@
-Disorderly Escape
+<h1>Disorderly Escape</h1>
 
 Oh no! You've managed to free the bunny prisoners and escape Commander Lambdas exploding space station, but her team of elite starfighters has flanked your ship. If you dont jump to hyperspace, and fast, youll be shot out of the sky!
 
@@ -47,18 +47,18 @@ In the above configuration, all celestial bodies are "silent" - that is, they ha
 
 There are 7 distinct, non-equivalent grids in total, so answer(2, 2, 2) would return 7.
 
-Inputs:
+<h3>Input:</h3>
 w = 2
 h = 2
 s = 2
 
-Output:
+<h3>Output:</h3>
 "7"
 
-Inputs:
+<h3>Input:</h3>
 w = 2
 h = 3
 s = 4
 
-Output:
+<h3>Output:</h3>
 "430"
