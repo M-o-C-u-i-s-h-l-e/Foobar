@@ -2,6 +2,7 @@
 
 ## Level 1
 <a href="https://github.com/M-o-C-u-i-s-h-l-e/Foobar/tree/main/Level%201/The%20cake%20is%20not%20a%20lie!">The cake is not a lie!</a><br>
+<a href="https://github.com/M-o-C-u-i-s-h-l-e/Foobar/tree/main/Level%201/Skipping%20Work">Skipping Work</a><br>
 
 ## Level 2
 <a href="https://github.com/M-o-C-u-i-s-h-l-e/Foobar/tree/main/Level%202/Bunny%20Prisoner%20Locating">Bunny Prisoner Locating</a><br>
