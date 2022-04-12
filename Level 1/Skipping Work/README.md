@@ -9,13 +9,15 @@ For example, given the lists x = [13, 5, 6, 2, 5] and y = [5, 2, 5, 13], the fun
 In each test case, the lists x and y will always contain n non-unique integers where n is at least 1 but never more than 99, and one of the lists will contain an additional unique integer which should be returned by the function. The same n non-unique integers will be present on both lists, but they might appear in a different order like in the examples above. Commander Lambda likes to keep the numbers short, so every worker ID will be between -1000 and 1000.
 
 <h3>Input:</h3>
-[13, 5, 6, 2, 5], [5, 2, 5, 13]
+[13, 5, 6, 2, 5]
+[5, 2, 5, 13]
 
 <h3>Output:</h3>
 6
 
 <h3>Input:</h3>
-[14, 27, 1, 4, 2, 50, 3, 1], [2, 4, -4, 3, 1, 1, 14, 27, 50]
+[14, 27, 1, 4, 2, 50, 3, 1]
+[2, 4, -4, 3, 1, 1, 14, 27, 50]
 
 <h3>Output:</h3>
 -4<br>
